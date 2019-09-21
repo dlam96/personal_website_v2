@@ -10,7 +10,7 @@ export class About extends Component {
                     </div>
                     <div className="col-md-8 col-sm-12">
                         <h2>About Me</h2>
-                        <p>I am currently a senior Computer Science student at the University of Florida. 
+                        <p>I am currently a senior Computer Science student at the University of Central Florida. 
                             I have experiences in the React, ExpressJS, MySQL, and MongoDB</p>
                         <p>
                         <br />
