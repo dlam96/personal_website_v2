@@ -34,7 +34,7 @@ export default class Header extends Component {
                     <div className="banner">
                         <div className="banner-text">
                             <h1>Daniel Lam</h1>
-                            <h3>I'm a senior Computer Science student at the University of Florida.</h3>
+                            <h3>I'm a senior Computer Science student at the University of Central Florida.</h3>
                             <h3> My main interests are in
                                 full-stack web development.</h3>
                             <ul className="social">
