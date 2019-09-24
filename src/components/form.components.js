@@ -4,7 +4,7 @@ export class Form extends Component {
     render() {
         return (
             <section id="form" className="wrapper">
-                <div className=" text-contain">
+                <div className="text-contain">
                     <div >
                         <h1>Get in Touch</h1>
                         <p>My inbox is always open.<br/> 

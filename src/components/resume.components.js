@@ -84,27 +84,27 @@ export class Resume extends Component {
                             <div>
                                 <h3>Programming Languages</h3>
                                 <p className="info">C/C++ 
-                                <span className="info ">&bull;</span>Java
-                                <span>&bull;</span>Python
-                                <span>&bull;</span>JavaScript
-                                <span>&bull;</span>HTML/CSS</p>
+                                &bull;Java
+                                &bull;Python
+                                &bull;JavaScript
+                                &bull;HTML/CSS</p>
                             </div>
                             <div>
                                 <h3>Libraries & FrameWorks</h3>
                                 <p className="info">React 
-                                <span>&bull;</span>Angular
-                                <span>&bull;</span>ExpressJS
-                                <span>&bull;</span>PassportJS
-                                <span>&bull;</span>PugJS</p>
+                                &bull;Angular
+                                &bull;ExpressJS
+                                &bull;PassportJS
+                                &bull;PugJS</p>
                             </div>
                             <div>
                                 <h3>Tools & Platform</h3>
                                 <p className="info">Git 
-                                <span>&bull;</span>Heroku
-                                <span>&bull;</span>Linux
-                                <span>&bull;</span>NodeJS
-                                <span>&bull;</span>MongoDB
-                                <span>&bull;</span>MySQL</p>
+                                &bull;Heroku
+                                &bull;Linux
+                                &bull;NodeJS
+                                &bull;MongoDB
+                                &bull;MySQL</p>
                             </div>
                         </div>
                     </div>
