@@ -5,13 +5,15 @@ import Footer from './components/footer.components';
 import About from './components/about.components';
 import Resume from './components/resume.components';
 import Contact from './components/contact.components';
+import Form from './components/form.components';
+
 function App() {
   return (
     <div>
       <Header/>
       <About/>
       <Resume/>
-      <Contact/>
+      <Form/>
       <Footer/>
     </div>
   );

@@ -80,16 +80,16 @@ export class Resume extends Component {
                         <h1><span>Technical skills</span></h1>
                     </div>
                     <div className="col-md-9 main-col">
-                        <div className="row item">
-                            <div className="col-12">
+                        <div className="item">
+                            <div>
                                 <h3>Programming Languages</h3>
                                 <p className="info">C/C++ 
-                                <span>&bull;</span>Java
+                                <span className="info ">&bull;</span>Java
                                 <span>&bull;</span>Python
                                 <span>&bull;</span>JavaScript
                                 <span>&bull;</span>HTML/CSS</p>
                             </div>
-                            <div className="col-12">
+                            <div>
                                 <h3>Libraries & FrameWorks</h3>
                                 <p className="info">React 
                                 <span>&bull;</span>Angular
@@ -97,7 +97,7 @@ export class Resume extends Component {
                                 <span>&bull;</span>PassportJS
                                 <span>&bull;</span>PugJS</p>
                             </div>
-                            <div className="col-12">
+                            <div>
                                 <h3>Tools & Platform</h3>
                                 <p className="info">Git 
                                 <span>&bull;</span>Heroku

@@ -12,8 +12,8 @@ export class Footer extends Component {
                                 <li> <a className="fa fa-linkedin" rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/dlam96/"></a></li>
                                 <li> <a className="fa fa-envelope" rel="noopener noreferrer" target="_blank" href="mailto: dlam96@knights.ucf.edu"></a></li>
                             </ul>
-                            <ul>
-                                <li>&copy; Copyright 2019 Daniel Lam</li>
+                            <ul className="nobull">
+                                <li>Designed and Built by Daniel Lam</li>
                             </ul>
                     </div>
                 </div>

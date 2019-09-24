@@ -4,13 +4,13 @@ export default class Header extends Component {
     render() {
         return ( 
             <section id="home" className="cover text-center">
-                <nav className="navbar navbar-expand-lg  fixed-top">
+                <nav className="navbar navbar-dark navbar-expand-lg  fixed-top">
                     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
                     </button>
 
                     <div className="collapse navbar-collapse pull-xs-center justify-content-center" id="navbarSupportedContent">
-                        <ul id="nav" className="navbar-nav nav navbar-center">
+                        <ul id="nav" className="navbar-nav nav">
                             <li className="nav-item current">
                                 <a className="nav-link smoothscroll" href="#home">Home</a>
                             </li>
@@ -24,7 +24,7 @@ export default class Header extends Component {
                                 <a className="nav-link" href="#link">Works</a>
                             </li> */}
                             <li className="nav-item">
-                                <a className="nav-link smoothscroll" href="#contact">Contact</a>
+                                <a className="nav-link smoothscroll" href="#form">Contact</a>
                             </li>
                         </ul>
                     </div>
