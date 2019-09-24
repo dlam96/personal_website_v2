@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my second iteration of my resume website that was made with React and ExpressJS backend. 
 
 ## Available Scripts
 
