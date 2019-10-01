@@ -1,5 +1,7 @@
 This is my second iteration of my resume website that was made with React and ExpressJS backend. 
 
+The website is currently live @ [daniellam.org](daniellam.org)
+
 ## Available Scripts
 
 In the project directory, you can run:
