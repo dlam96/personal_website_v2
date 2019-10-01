@@ -1,6 +1,6 @@
 This is my second iteration of my resume website that was made with React and ExpressJS backend. 
 
-The website is currently live @ [daniellam.org](daniellam.org)
+The website is currently live @ [daniellam.org](http://www.daniellam.org)
 
 ## Available Scripts
 
